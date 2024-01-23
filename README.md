@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daud Tsaqiif R</h1>
-<h3 align="center">A developer</h3>
+<h3 align="center">Islamc Developer Network</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,4 +12,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daudtsaqiif&show_icons=true&locale=en&layout=compact" alt="daudtsaqiif" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daudtsaqiif&show_icons=true&locale=en" alt="daudtsaqiif" /></p>
-
